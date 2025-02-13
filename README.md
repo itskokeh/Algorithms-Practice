@@ -7,5 +7,6 @@ My intention is to test these algorithms with Jest or any other testing tool but
 ## Knight Travails
 
 In order to start this project, I had to go study some data structures and algorithms.
-The knowledge of Binary Search Tree algorithm is a requirement for this algorithm.
+The knowledge of Binary Search Tree algorithm is a requirement for this algorithm. I used a Breath First Search and the time complexity for the project is O(n^2). I would review it with time because this is my first time trying this project.
+I used both functions and classes to write the program. 
 
